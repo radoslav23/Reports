@@ -6,7 +6,6 @@ using NUnit.Framework;
 
 namespace Reports
 {
-    //it's worked
     [TestFixture]
     public class ExtentReport
     {
